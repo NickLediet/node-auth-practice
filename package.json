@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NickLediet/node-auth-practice/issues"
   },
-  "homepage": "https://github.com/NickLediet/node-auth-practice#readme"
+  "homepage": "https://github.com/NickLediet/node-auth-practice#readme",
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  }
 }
