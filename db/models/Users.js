@@ -8,7 +8,7 @@ export default class UserModel {
 
     /** @param { import('sqlite').Database } db*/
     constructor(db) {
-        this.db = db
+        super(db)
     }
 
     async init() {
