@@ -1,0 +1,19 @@
+{
+  "name": "auth-practice",
+  "version": "1.0.0",
+  "description": "One-shot practice project for implementing authentication/authorization with Express and SQLite as a POC for future apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickLediet/node-auth-practice.git"
+  },
+  "author": "Nicholas Lediet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickLediet/node-auth-practice/issues"
+  },
+  "homepage": "https://github.com/NickLediet/node-auth-practice#readme"
+}
