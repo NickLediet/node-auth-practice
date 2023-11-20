@@ -1,5 +1,5 @@
 # TODO
-- [ ] Choose and implement DB
+- [x] Choose and implement DB
 - [ ] Add Testng
 - [ ] Add GH Actions
 - [ ] Setup Routing/Express
